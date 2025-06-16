@@ -1,50 +1,8 @@
 body {
-  background-color: #e0e0e0;
-  background-image: url('download (1).jpeg');
-  background-repeat: no-repeat;
+  background-image: url('download\ \(1\).jpeg');
   background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-  padding: 20px;
-  margin: 0;
-  font-family: 'Inter', sans-serif;
-  color: #333;
-  line-height: 1.6;
 }
 
-p {
-  max-width: 800px;
-  margin: 15px auto;
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 15px 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-h1, h2 {
-  text-align: center;
-  color: #0056b3;
-  margin-top: 30px;
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 10px 20px;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  display: inline-block;
-  max-width: 90%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-iframe {
-  display: block;
-  margin: 30px auto;
-  max-width: 100%;
-  height: auto;
-  border-radius: 12px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-}
-
-img {
-  display: block;
-  margin:
+select{
+  font-family: 'nome da fonte', fallback-fonte;
 }
